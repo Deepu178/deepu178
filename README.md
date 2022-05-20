@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepu178&label=Profile%20views&color=0e75b6&style=flat" alt="deepu178" /> </p>
 
-- 🔭 I’m currently working on **Twilio Quest**
+- 🔭 I’m currently working on **as Freelancer**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently **MERN Full Stack Web Developer**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
