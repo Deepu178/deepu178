@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepu178&label=Profile%20views&color=0e75b6&style=flat" alt="deepu178" /> </p>
 
--  <a target="_blank" href="https://deependra-portfolio.netlify.app/" style="font-weight:bolder; font-size:24px;">Portfolio. </a>
+-  <a target="_blank" href="https://deependra-portfolio.netlify.app/" style="font-weight:bolder; font-size:36px;">Portfolio. </a>
 
 - 🔭 I’m currently working **as a Freelancer**
 
