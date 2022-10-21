@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deependra Kumar</h1>
 <h3 align="center">MERN Full Stack Web Developer</h3>
-<a style="text-decoration:none;" href="https://deependra-portfolio.netlify.app/">This is my Portfolio. </a>
+<a target="_blank" href="https://deependra-portfolio.netlify.app/">This is my Portfolio. </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepu178&label=Profile%20views&color=0e75b6&style=flat" alt="deepu178" /> </p>
 
