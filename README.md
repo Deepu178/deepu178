@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Deependra Kumar</h1>
 <h3 align="center">MERN Full Stack Web Developer</h3>
-<a target="_blank" href="https://deependra-portfolio.netlify.app/">This is my Portfolio. </a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepu178&label=Profile%20views&color=0e75b6&style=flat" alt="deepu178" /> </p>
 
-- 🔭 I’m currently working **as Freelancer**
+-  <a target="_blank" href="https://deependra-portfolio.netlify.app/">This is my Portfolio. </a>
 
-- 🌱 I’m currently **MERN Full Stack Web Developer**
+- 🔭 I’m currently working **as a Freelancer**
+
+- 🌱 I’m currently a **MERN Full Stack Web Developer**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Javascript, React and Nodejs**
+- 💬 Ask me about **Javascript, React, REST APIs, CSS3, MongoDB and Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
