@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently a **MERN Full Stack Web Developer**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m contributing on **Open Source Projects**
 
 - 💬 Ask me about **Javascript, React, REST APIs, CSS3, MongoDB and Nodejs**
 
