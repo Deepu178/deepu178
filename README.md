@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Javascript, React, REST APIs, CSS3, MongoDB and Nodejs**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Drop hii:</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deependra-kumar-760563166) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17247487) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/trizectfounder) 
