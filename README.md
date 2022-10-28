@@ -12,7 +12,7 @@
 
 - 👯 I’m contributing on **Open Source Projects**
 
-- 💬 Ask me about **Javascript, React, REST APIs, CSS3, MongoDB and Nodejs**
+- 💬 Ask me about **Javascript, React, REST APIs, CSS3, MongoDB and Nodejs.**
 
 <h3 align="left">Drop hii:</h3>
 
