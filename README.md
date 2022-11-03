@@ -1,4 +1,4 @@
-<h1 align="center">Hey, 👋 I'm Deependra Kumar</h1>
+<h1 align="center">Hey, 👋 I'm Deependra Kumar.</h1>
 <h3 align="center">MERN Full Stack Web Developer</h3>
 
 
