@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I am Deependra Kumar.</h1>
 <h3 align="center">MERN Full Stack Web Developer</h3>
-<h3 align="center">API Fundamentals Student Expert <a href="https://www.postman.com/student-program/ target="_blank" style="underline:none">Postman</a>
+<h3 align="center">API Fundamentals Student Expert <a href="https://www.postman.com/student-program/ style="underline:none">Postman</a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepu178&label=Profile%20views&color=0e75b6&style=flat" alt="deepu178" /> </p>
