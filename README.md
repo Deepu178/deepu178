@@ -1,23 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deependra Kumar</h1>
-<h3 align="center">A passionate Full Stack Web developer and Freelancer</h3>
+<h3 align="center">Founder & CEO at Drafton</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepu178" alt="deepu178" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/deepureact" target="blank"><img src="https://img.shields.io/twitter/follow/deepureact?logo=twitter&style=for-the-badge" alt="deepureact" /></a> </p>
 
-- 🔭 I’m currently working on [Vibey](https://www.github.com/unikonf/vibey)
-
-- 🌱 I’m currently learning **Go**
-
-- 👯 I’m looking to collaborate on [KesarUI](https://www.github.com/unikonf/vibey)
-
-- 👨‍💻 All of my projects are available at [https://www.deependra.biz](https://www.deependra.biz)
-
-- 📝 I regularly write articles on [https://uncode.hashnode.dev/](https://uncode.hashnode.dev/)
+- 🔭 I’m currently working on [Drafton](https://www.drafton.io)
 
 - 💬 Ask me about **React, Node.js, Express.js**
 
-- 📫 How to reach me **deependrarajpoot178@gmail.com**
+- 📫 How to reach me **deependra@drafton.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
